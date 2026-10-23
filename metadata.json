@@ -1,0 +1,6 @@
+{
+  "name": "Waste2Feed",
+  "description": "Donate Food Waste. Create Animal Feed. Protect Our Planet. Connecting food donors, collection partners, bioprocessors, and farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
